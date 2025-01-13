@@ -14,8 +14,8 @@
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprimeagen&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprimeagen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhoo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-racasantos-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/racasantos/)
