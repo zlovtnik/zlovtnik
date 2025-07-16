@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/zlovtnik?style=social)
 
 ## 👨‍💻 About Me
-- 🧑‍💼 **Staff Senior Software Engineer** at [Synchro](https://synchro.com.br).
+- 🧑‍💼 **Staff Senior Software Engineer** at [Garmin IT]().
 - 🌐 Backend developer and ETL Expert.
 - 🛠️ Expert in **Java**, **Python** and **Cloud**.
 
